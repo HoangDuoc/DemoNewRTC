@@ -1,0 +1,16 @@
+PODS:
+  - DemoNewRTC (0.1.0)
+
+DEPENDENCIES:
+  - DemoNewRTC (from `../`)
+
+EXTERNAL SOURCES:
+  DemoNewRTC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoNewRTC: 25d64c9895a1c2063fcad3537d3df43667c0162b
+
+PODFILE CHECKSUM: d1177890fd4a4df4abaaeb534eb46e4bbc29a07e
+
+COCOAPODS: 1.8.4

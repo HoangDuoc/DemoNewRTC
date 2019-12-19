@@ -1,0 +1,6 @@
+framework module DemoNewRTC {
+  umbrella header "DemoNewRTC-umbrella.h"
+
+  export *
+  module * { export * }
+}

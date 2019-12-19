@@ -1,0 +1,22 @@
+{
+  "name": "DemoNewRTC",
+  "version": "0.1.0",
+  "summary": "A short description of DemoNewRTC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/info@stringee.com/DemoNewRTC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "info@stringee.com": "info@stringee.com"
+  },
+  "source": {
+    "git": "https://github.com/info@stringee.com/DemoNewRTC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoNewRTC/Classes/**/*"
+}
