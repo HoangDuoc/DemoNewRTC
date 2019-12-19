@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DemoNewRTC_Example' do
+  pod 'DemoNewRTC', :path => '../'
+
+  target 'DemoNewRTC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
